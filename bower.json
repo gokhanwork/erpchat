@@ -1,0 +1,19 @@
+{
+  "name": "erpchat",
+  "description": "Resital Yazılım",
+  "main": "",
+  "authors": [
+    "Gökhan Polat <gokhanplt.com@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "nodejs",
+    "erp",
+    "resital"
+  ],
+  "homepage": "https://github.com/gokhanplt/erpchat",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
