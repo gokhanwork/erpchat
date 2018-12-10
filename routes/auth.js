@@ -16,6 +16,6 @@ router.get('/google/callback',
             failureRedirect: '/'
         }),
     (req, res) => {
-    res.redirect('/chat');
+        res.redirect('/chat');
     });
 module.exports = router;
